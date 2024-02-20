@@ -7,6 +7,8 @@
   - [Histogram Equalization](https://github.com/MathandDataScience/)
   - [Coin Counting](https://github.com/MathandDataScience/)
   - [Dimenstion Reduction -PCA](https://github.com/MathandDataScience/)
+- <b>Machine Learning projects</b>
+  - [ML- Spark Advance](https://github.com/MathandDataScience/)
 - <b>Mathematics projects</b>
   - [PCA](https://github.com/MathandDataScience/)
   - [PLU-factorization](https://github.com/MathandDataScience/)
