@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Image Processing</b>
+  - [Dimenstion Reduction -PCA](https://github.com/MathandDataScience/Dimension-Reduction-PCA)
   - [Text Detection](https://github.com/MathandDataScience/)
   - [Histogram Equalization](https://github.com/MathandDataScience/)
   - [Coin Counting](https://github.com/MathandDataScience/)
-  - [Dimenstion Reduction -PCA](https://github.com/MathandDataScience/)
 - <b>Machine Learning projects</b>
   - [ML- Spark Advance](https://github.com/MathandDataScience/)
 - <b>Mathematics projects</b>
