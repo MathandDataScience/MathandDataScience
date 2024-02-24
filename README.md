@@ -4,9 +4,9 @@
 
 - <b>Image Processing</b>
   - [Dimenstion Reduction -PCA](https://github.com/MathandDataScience/Dimension-Reduction-PCA)
-  - [Text Detection](https://github.com/MathandDataScience/)
+  - [Coin Counting](https://github.com/MathandDataScience/Coin-Counting)
   - [Histogram Equalization](https://github.com/MathandDataScience/)
-  - [Coin Counting](https://github.com/MathandDataScience/)
+  - [Text Detection](https://github.com/MathandDataScience/Text-Detection)
 - <b>Machine Learning projects</b>
   - [ML- Spark Advance](https://github.com/MathandDataScience/ML-Spark-Advance)
 - <b>Mathematics projects</b>
