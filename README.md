@@ -15,7 +15,9 @@
   - [Java - sound board](https://github.com/MathandDataScience/) - Upload date TBD
   - [Arduino - project](https://github.com/MathandDataScience/) - - Upload date TBD
 
-
+<h2> 🏫 Education:</h2>
+  - Bachelor of Science in Physics from the University of Wisconsin River Falls
+  - Master of Science in Applied Mathematics and Data Science from the University of Wisconsin Stout (WIP finished 7/2024)
 
 <h2> 📞 Connect with me:</h2>
 
