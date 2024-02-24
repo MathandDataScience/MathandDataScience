@@ -25,7 +25,7 @@
 
 [<img align="left" alt="anthony-caruso-0385a7a4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/anthony-caruso-0385a7a4
+[linkedin]: https://linkedin.com/in/anthony-caruso-0385a7a4
 
 <!--
 **MathandDataScience/MathandDataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
