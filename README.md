@@ -5,16 +5,15 @@
 - <b>Image Processing</b>
   - [Dimenstion Reduction -PCA](https://github.com/MathandDataScience/Dimension-Reduction-PCA)
   - [Coin Counting](https://github.com/MathandDataScience/Coin-Counting)
-  - [Histogram Equalization](https://github.com/MathandDataScience/)
+  - [Histogram Equalization](https://github.com/MathandDataScience/Histogram-Matching-EQ)
   - [Text Detection](https://github.com/MathandDataScience/Text-Detection)
 - <b>Machine Learning projects</b>
   - [ML- Spark Advance](https://github.com/MathandDataScience/ML-Spark-Advance)
 - <b>Mathematics projects</b>
-  - [PCA](https://github.com/MathandDataScience/)
-  - [PLU-factorization](https://github.com/MathandDataScience/)
+  - [PLU-factorization](https://github.com/MathandDataScience/) - Upload date TBD
 - <b>Older Projects</b>
-  - [Java - sound board](https://github.com/MathandDataScience/)
-  - [Arduino - project](https://github.com/MathandDataScience/)
+  - [Java - sound board](https://github.com/MathandDataScience/) - Upload date TBD
+  - [Arduino - project](https://github.com/MathandDataScience/) - - Upload date TBD
 
 
 
