@@ -12,7 +12,7 @@
 - <b>Mathematics projects</b>
   - [PLU-factorization](https://github.com/MathandDataScience/) - Upload date TBD
 - <b>Older Projects</b>
-  - [Java - sound board](https://github.com/MathandDataScience/) - Upload date TBD
+  - [Java - sound board](https://github.com/MathandDataScience/Java-soundboard)
   - [Arduino - project](https://github.com/MathandDataScience/) - - Upload date TBD
 
 <h2> 🏫 Education:</h2>
