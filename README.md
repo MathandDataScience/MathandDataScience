@@ -10,7 +10,7 @@
 - <b>Machine Learning projects</b>
   - [ML- Spark Advance](https://github.com/MathandDataScience/ML-Spark-Advance)
 - <b>Mathematics projects</b>
-  - [PLU-factorization](https://github.com/MathandDataScience/) - Upload date TBD
+  - [Matrix factorization and decomposition - stability and efficiency](https://github.com/MathandDataScience/) - Upload date TBD
 - <b>Older Projects</b>
   - [Java - sound board](https://github.com/MathandDataScience/Java-soundboard)
   - [Arduino - project](https://github.com/MathandDataScience/) - - Upload date TBD
