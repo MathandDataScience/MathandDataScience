@@ -9,17 +9,18 @@
   - [Text Detection](https://github.com/MathandDataScience/Text-Detection)
 - <b>Machine Learning projects</b>
   - [ML- Spark Advance](https://github.com/MathandDataScience/ML-Spark-Advance)
+  - [Dermatology Medical Image Classification - project](https://github.com/MathandDataScience/) - Upload date TBD
 - <b>Mathematics projects</b>
   - [Matrix factorization and decomposition - stability and efficiency](https://github.com/MathandDataScience/) - Upload date TBD
 - <b>Older Projects</b>
   - [Java - sound board](https://github.com/MathandDataScience/Java-soundboard)
-  - [Arduino - project](https://github.com/MathandDataScience/) - - Upload date TBD
+  - [Arduino - project](https://github.com/MathandDataScience/) - Upload date TBD
 
 <h2> 🏫 Education:</h2>
 
 - Bachelor of Science in Physics from the University of Wisconsin River Falls
 
-- Master of Science in Applied Mathematics and Data Science from the University of Wisconsin Stout (WIP finished 7/2024)
+- Master of Science in Applied Mathematics and Data Science from the University of Wisconsin Stout 
 
 <h2> 📞 Connect with me:</h2>
 
